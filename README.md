@@ -1,4 +1,4 @@
-# Accounts Microservice
+# Account Microservice
 
 A robust, production-ready microservice for managing account operations built with Node.js and Express.
 
@@ -6,15 +6,15 @@ A robust, production-ready microservice for managing account operations built wi
 
 ### Core Framework
 - **Node.js** - JavaScript runtime environment
-- **Express.js 5.1.0** - Fast, unopinionated web framework for Node.js
+- **Express.js** - Fast, unopinionated web framework for Node.js
 
 ### Database & ODM
 - **MongoDB** - NoSQL document database
-- **Mongoose 8.18.0** - MongoDB object modeling tool with schema validation
+- **Mongoose** - MongoDB object modeling tool with schema validation
 
 ### Validation & Configuration
-- **Joi 18.0.1** - Schema description language and validator for JavaScript objects
-- **dotenv 17.2.1** - Environment variable management
+- **Joi** - Schema description language and validator for JavaScript objects
+- **dotenv** - Environment variable management
 
 ### Architecture Pattern
 - **MVC (Model-View-Controller)** - Clean separation of concerns
